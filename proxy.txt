@@ -1,0 +1,11 @@
+payload:
+  - '+.aifun.wiki'
+  - '+.catai.wiki'
+  - '+.cfgtv.ii00.cc'
+  - '+.surrit.com'
+  - '+.resao.com'
+  - '+.fc2.com'
+  - '+.91p52.com'
+  - '+.maoxiong.cloud'
+  - '+.laowangforum.net'
+  - '+.uaa.com'
