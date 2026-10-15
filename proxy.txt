@@ -10,3 +10,4 @@ payload:
   - '+.laowangforum.net'
   - '+.uaa.com'
   - '+.avjb.com'
+  - '+.uameta.ai'
