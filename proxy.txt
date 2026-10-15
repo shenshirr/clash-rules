@@ -9,3 +9,4 @@ payload:
   - '+.maoxiong.cloud'
   - '+.laowangforum.net'
   - '+.uaa.com'
+  - '+.avjb.com'
