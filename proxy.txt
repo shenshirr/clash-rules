@@ -11,3 +11,4 @@ payload:
   - '+.uaa.com'
   - '+.avjb.com'
   - '+.uameta.ai'
+  - '+.g3ejjm8m.com'
